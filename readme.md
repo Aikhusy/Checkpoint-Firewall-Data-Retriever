@@ -5,11 +5,21 @@
 
 This application is designed to retrieve and store firewall data by connecting to firewalls via SSH, executing specific commands, and saving the results in a SQL Server database. The application is configurable and allows users to get firewall information.
 
+## Reminder
+
+Make sure the Check Point firewall is configured correctly, has Expert Mode enabled, and is connected to your PC.
+
+## Hardware
+
+Works with Check Point SMB and non-SMB Firewalls.
+
 ## How to Use
 
 ### 1. Download the Zip
 
 Download the project zip file to your local machine.
+
+[Newest Version](https://github.com/Aikhusy/Checkpoint-Firewall-Data-Retriever/blob/main/v%20alpha0.1/v%20alpha0.1.rar)
 
 ### 2. Extract the Zip
 
@@ -120,3 +130,5 @@ Add the two programs to Windows Task Scheduler:
 
 This documentation should help you set up and configure the Python-Based Firewall Data Retriever. For any further assistance, please refer to the included source code comments or reach out to your administrator.
 
+
+**"Code by Aikhusy, made with Python."**

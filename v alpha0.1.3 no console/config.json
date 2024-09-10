@@ -1,0 +1,22 @@
+{
+    "Driver": "your driver",
+    "Server": "your server",
+    "Database": "your db",
+    "Trusted_Connection": "no",
+    "UID":"your username",
+    "PWD":"your pwd",
+    "Encrypt":"no",
+    "TrustServerCertificate":"no",
+    
+    "Invoke_Shell_Delay": 0.5,
+    "Run_Command_Delay": 0.7,
+    "Expert_Shell_Delay": 1,
+
+    "alert_status": false,
+
+    "Telegram_Alert_Status" : true,
+    "Telegram_Bot_API" :"your telebot",
+    "Telegram_Chat_Id" : "your chatid",
+    "Encrypt_Phrase" : "your encrypt phrase"
+}
+  
